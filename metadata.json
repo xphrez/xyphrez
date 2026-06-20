@@ -1,0 +1,6 @@
+{
+  "name": "XYPHREZ",
+  "description": "Every tool. One place. An all-in-one suite of clean, secure, and instant browser utility tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
